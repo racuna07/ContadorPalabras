@@ -30,6 +30,9 @@
     <ClInclude Include="ContadorDePalabras.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Palabra.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -42,6 +45,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ContadorDePalabras.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Palabra.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
